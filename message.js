@@ -16,7 +16,7 @@ const endings = [
   "Trust your instincts.",
   "Stay positive and keep moving forward.",
   "The best is yet to come.",
-  "FUCK YOUI NIGGA ",
+  "BIG G ",
 ];
 
 // Function to generate a random message
